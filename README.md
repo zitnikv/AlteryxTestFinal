@@ -9,5 +9,5 @@ In my chosen category at my favourite WebShop, add the most and the least expens
 Tools I used:
 - MS Visual Studio Code
 - Selenium Webdriver 4.0.0-alpha.3 with JavaScript
-- NodeJS
+- NodeJS 10.16.0
 - Firefox 67.0.2 (64-bit)
